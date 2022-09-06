@@ -20,7 +20,14 @@ public class WordManager {
 			else if(menu == 1) {
 				wordCRUD.listAll();
 			}
+			else if(menu == 5) {
+				wordCRUD.updateItem();
+			}
+			else if(menu == 6) {
+				//delete
+			}
 		}
+		System.out.println("프로그램 종료~!");
 	}
 	
 	public int selectMenu() {
