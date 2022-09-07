@@ -28,6 +28,9 @@ public class WordManager {
 			else if(menu == 6) {
 				wordCRUD.deleteItem();
 			}
+			else if(menu == 7) {
+				wordCRUD.saveFile();
+			}
 		}
 		System.out.println("프로그램 종료~!");
 	}
