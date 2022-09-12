@@ -33,5 +33,5 @@
      
      
 > 7번 기능 : 단어 수정
-<img src="https://github.com/Seo-Yegyeong/WordMasterProject/blob/main/screenshots/%5Bfinal%5D%203rd%20function.PNG" width="35%"/>   
-위에서 추가한 목록이 잘 나타남을 볼 수 있습니다.     
+<img src="https://github.com/Seo-Yegyeong/WordMasterProject/blob/main/screenshots/%5Bfinal%5D%203rd%20function.PNG" width="35%"/>    
+<img src="https://github.com/Seo-Yegyeong/WordMasterProject/blob/main/screenshots/%5Bfinal%5D%20dictionary%20file.PNG" width="35%"/>   
