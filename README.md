@@ -32,6 +32,8 @@
 <img src="https://github.com/Seo-Yegyeong/WordMasterProject/blob/main/screenshots/%5Bfinal%5D%206th%20function.PNG" width="35%"/>   
      
      
-> 7번 기능 : 단어 수정
-<img src="https://github.com/Seo-Yegyeong/WordMasterProject/blob/main/screenshots/%5Bfinal%5D%203rd%20function.PNG" width="35%"/>    
+> 7번 기능 : 파일 저장
+<img src="https://github.com/Seo-Yegyeong/WordMasterProject/blob/main/screenshots/%5Bfinal%5D%207th%20function.PNG" width="35%"/>    
+
+아래는 7번(파일 저장)을 실행 후 열어본 Dictionary.txt 파일의 내용이다. :)      
 <img src="https://github.com/Seo-Yegyeong/WordMasterProject/blob/main/screenshots/%5Bfinal%5D%20dictionary%20file.PNG" width="35%"/>   
